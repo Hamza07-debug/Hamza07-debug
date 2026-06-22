@@ -86,11 +86,21 @@ Building responsive and user-friendly web applications using modern web technolo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza07-debug&show_icons=true&rank_icon=github" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact" />
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hamza07-debug" />
+</p>
 
 ## 🎯 Current Focus
 
