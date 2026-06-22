@@ -105,8 +105,8 @@ Building responsive and user-friendly web applications using modern web technolo
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/muhammad-hamza-afzaal](http://www.linkedin.com/in/muhammad-hamza-afzaal)
-* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://www.linkedin.com/in/hamza-afzaal-80400b415/
+* GitHub: https://github.com/Hamza07-debug
 
 ---
 
