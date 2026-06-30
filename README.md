@@ -1,129 +1,130 @@
-# Hi 👋, I'm Muhammad Hamza Afzaal
+<div align="center">
 
-### AI Engineering Intern | BS Computer Science Student at FAST-NUCES
+<br/>
 
-I'm a Computer Science student passionate about Artificial Intelligence, Software Development, Data Structures & Algorithms, and Web Development. I enjoy building real-world applications, exploring modern AI technologies, and continuously improving my problem-solving skills.
+<img src="https://github.com/Hamza07-debug.png" width="150" style="border-radius:50%" />
 
----
+<br/>
 
-## 🚀 About Me
+# Muhammad Hamza Afzaal
 
-* 🎓 BS Computer Science Student at FAST-NUCES
-* 💼 AI Engineering Intern
-* 🤖 Exploring AI Engineering, LLM Applications, and Agentic AI
-* 🌐 Learning Full-Stack Web Development
-* 📚 Strong foundation in C, C++, OOP, Data Structures, and Operating Systems
-* 🎯 Aspiring AI & Software Engineer
-* 🌱 Always learning new technologies and frameworks
+### AI Engineering Intern &nbsp;·&nbsp; CS Student @ FAST-NUCES
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+with+Agentic+AI+and+LLMs.;Claude+API+%7C+MCP+%7C+Python+%7C+C%2B%2B.;Open+to+internships+and+collaboration.)](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+<br/>
 
-### Programming Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/hamza-afzaal-80400b415/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=10B981)](https://github.com/Hamza07-debug)
 
-* C
-* C++
-* Python
-* SQL
+</div>
 
-### Computer Science Fundamentals
+<br/>
 
-* Data Structures & Algorithms
-* Object-Oriented Programming (OOP)
-* Operating Systems
-* Database Systems
-* Software Engineering
+I'm a Computer Science student at FAST-NUCES (Chiniot-Faisalabad Campus), currently interning as an AI Engineer at **ExpertsCloud**, an agentic AI company headquartered in Fort Lauderdale, Florida. I'm passionate about Artificial Intelligence, Agentic AI, LLM applications, and building real-world systems that connect strong CS fundamentals with modern AI tooling.
 
-### Artificial Intelligence
+<br/>
 
-* Machine Learning
-* Large Language Models (LLMs)
-* Prompt Engineering
-* AI Agents
-* Agentic AI
-* MCP (Model Context Protocol)
+## About Me
 
-### Web Development
+- 🎓 BS Computer Science Student at FAST-NUCES
+- 💼 AI Engineering Intern @ ExpertsCloud
+- 🤖 Exploring Agentic AI, LLM Applications, and the Model Context Protocol (MCP)
+- 📜 Studying for the Claude Certified Architect certification (Claude Code, Agent SDK, Claude API, MCP)
+- 📚 Strong foundation in C, C++, OOP, Data Structures & Algorithms, and Operating Systems
+- 🌱 Always learning new technologies and frameworks
 
-* HTML
-* CSS
-* JavaScript
-* Responsive Web Design
+<br/>
 
-### Tools & Platforms
+## Featured Projects
 
-* Git
-* GitHub
-* Visual Studio
-* VS Code
+### University Management System
 
----
+`C++` `Hash Tables` `Graphs` `AVL Trees` `Stacks` `Queues`
 
-## 📌 Featured Projects
+A comprehensive C++ project implementing core data structures — hash tables, graphs, AVL trees, stacks, and queues — to efficiently manage university operations end-to-end.
 
-### 🎓 University Management System
+### Concurrent Banking System
 
-A comprehensive C++ project implementing:
+`C` `POSIX` `Multithreading` `Synchronization`
 
-* Hash Tables
-* Graphs
-* AVL Trees
-* Queues
-* Stacks
+A multithreaded banking simulation built in C on Linux/POSIX, covering process and thread management, CPU scheduling, synchronization (mutexes, semaphores), deadlock avoidance, and inter-process communication — built as a capstone for core Operating Systems concepts.
 
-for efficient university operations management.
+### Intelligent Urban Delivery Robot
 
-### 🤖 AI & Machine Learning Projects
+`Python` `Tkinter` `Search Algorithms`
 
-Developing intelligent applications using modern AI technologies and Large Language Models.
+An AI lab project simulating a delivery robot navigating a 15×15 grid using seven different search algorithms, with a Tkinter-based GUI for visualization.
 
-### 🌐 Web Development Projects
+### Atari Breakout (x86 Assembly)
 
-Building responsive and user-friendly web applications using modern web technologies.
+`NASM` `x86` `DOSBox`
 
----
+A classic Atari Breakout clone built from scratch in 16-bit x86 NASM assembly, running as a DOS `.COM` executable — a deep dive into low-level systems programming.
 
-## 📊 GitHub Stats
+### llm_engineering
 
-<h2 align="center">📊 GitHub Stats</h2>
+`Python` `OpenAI API` `Gemini` `Groq`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza07-debug&show_icons=true&rank_icon=github" />
-</p>
+A collection of LLM-powered experiments using the OpenAI Python API, with explorations into free alternatives like Gemini and Groq for cost-effective inference.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact" />
-</p>
+<br/>
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## AI & Algorithms
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hamza07-debug" />
-</p>
+| Topic | Concepts |
+|---|---|
+| Search Algorithms | BFS, DFS, UCS, A*, Greedy, Minimax, Alpha-Beta Pruning |
+| Machine Learning | K-Means, K-Medoids Clustering, ANNs, Perceptron, Backpropagation |
+| Logic & CSP | Propositional Logic, FOL, Constraint Satisfaction, Wumpus World |
+| Agentic AI | Claude API, Agent SDK, MCP (Model Context Protocol) |
 
-## 🎯 Current Focus
+<br/>
 
-* Artificial Intelligence & AI Agents
-* Large Language Models (LLMs)
-* Data Structures & Algorithms
-* Operating Systems
-* Full-Stack Web Development
-* Software Engineering Best Practices
+## Tech Stack
 
----
+![C](https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)
 
-## 🌐 Connect With Me
+<br/>
 
-* LinkedIn: https://www.linkedin.com/in/hamza-afzaal-80400b415/
-* GitHub: https://github.com/Hamza07-debug
+## Current Focus
 
----
+- Agentic AI & the Model Context Protocol (MCP)
+- Claude Certified Architect certification prep
+- Large Language Models (LLMs)
+- Data Structures & Algorithms
+- Operating Systems & Database Systems
 
-## 💡 Quote
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza07-debug&show_icons=true&rank_icon=github&theme=dark&hide_border=true&bg_color=0f172a&title_color=10B981&icon_color=10B981" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=10B981" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hamza07-debug&theme=github-dark-blue&hide_border=true&background=0f172a&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+## Quote
 
 > "Success is the result of continuous learning, consistent effort, and persistence."
 
----
+<br/>
 
-⭐ Feel free to explore my repositories and connect with me. I'm always open to learning, collaboration, and exciting opportunities.
+<div align="center">
+
+*Open to internships, collaboration, and exciting AI opportunities — remote or Lahore/on-site.*
+
+</div>
