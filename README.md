@@ -111,7 +111,7 @@ A collection of LLM-powered experiments using the OpenAI Python API, with explor
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=10B981" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hamza07-debug&theme=github-dark-blue&hide_border=true&background=0f172a&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=94a3b8&dates=94a3b8)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Hamza07-debug&theme=github-dark-blue&hide_border=true&background=0f172a&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=94a3b8&dates=94a3b8" />
 
 </div>
 
