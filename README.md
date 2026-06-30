@@ -10,7 +10,7 @@
 
 ### AI Engineering Intern &nbsp;·&nbsp; CS Student @ FAST-NUCES
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+with+Agentic+AI+and+LLMs.;Claude+API+%7C+MCP+%7C+Python+%7C+C%2B%2B.;Open+to+internships+and+collaboration.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Building+web+applications%2C+APIs%2C+and+AI+projects.;Claude+API+%7C+MCP+%7C+Python+%7C+C%2B%2B.;Open+to+internships+and+collaboration.)](https://git.io/typing-svg)
 
 <br/>
 
