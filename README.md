@@ -30,7 +30,6 @@ I'm a Computer Science student at FAST-NUCES (Chiniot-Faisalabad Campus), curren
 - 🎓 BS Computer Science Student at FAST-NUCES
 - 💼 AI Engineering Intern @ ExpertsCloud
 - 🤖 Exploring Agentic AI, LLM Applications, and the Model Context Protocol (MCP)
-- 📜 Studying for the Claude Certified Architect certification (Claude Code, Agent SDK, Claude API, MCP)
 - 📚 Strong foundation in C, C++, OOP, Data Structures & Algorithms, and Operating Systems
 - 🌱 Always learning new technologies and frameworks
 
@@ -87,6 +86,8 @@ A collection of LLM-powered experiments using the OpenAI Python API, with explor
 ![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-0f172a?style=flat-square&logo=oracle&logoColor=F80000)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
@@ -98,7 +99,6 @@ A collection of LLM-powered experiments using the OpenAI Python API, with explor
 ## Current Focus
 
 - Agentic AI & the Model Context Protocol (MCP)
-- Claude Certified Architect certification prep
 - Large Language Models (LLMs)
 - Data Structures & Algorithms
 - Operating Systems & Database Systems
