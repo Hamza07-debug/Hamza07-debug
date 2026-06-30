@@ -21,7 +21,7 @@
 
 <br/>
 
-I'm a Computer Science student at FAST-NUCES (Chiniot-Faisalabad Campus), currently interning as an AI Engineer at **ExpertsCloud**, an agentic AI company headquartered in Fort Lauderdale, Florida. I'm passionate about Artificial Intelligence, Agentic AI, LLM applications, and building real-world systems that connect strong CS fundamentals with modern AI tooling.
+I'm a Computer Science student at FAST-NUCES (Chiniot-Faisalabad Campus), currently interning as an AI Engineer at **ExpertsCloud**. I'm passionate about Artificial Intelligence, Agentic AI, LLM applications, and building real-world systems that connect strong CS fundamentals with modern AI tooling.
 
 <br/>
 
