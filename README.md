@@ -238,7 +238,7 @@ Building agentic AI systems and automation pipelines using modern LLM tooling.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamza07-debug&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Hamza07-debug&theme=darkhub&no-frame=true&margin-w=10&column=7" />
 
 </div>
 
