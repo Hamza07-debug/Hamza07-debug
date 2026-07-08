@@ -11,7 +11,6 @@
 ![Academic](https://img.shields.io/badge/BS_Computer_Science-FAST--NUCES-1e1b4b?style=for-the-badge&labelColor=2e1065&color=7c3aed)
 ![Location](https://img.shields.io/badge/Location-Lahore%2C_Pakistan-1e1b4b?style=for-the-badge&labelColor=2e1065&color=7c3aed)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=2e1065)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=2e1065)](https://www.linkedin.com/in/hamza-afzaal-80400b415/)
 [![Email](https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=2e1065)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=2e1065)](https://github.com/Hamza07-debug)
@@ -224,8 +223,8 @@ Building agentic AI systems and automation pipelines using modern LLM tooling.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza07-debug&show_icons=true&rank_icon=github&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=c4b5fd" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Hamza07-debug&show_icons=true&rank_icon=github&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&icon_color=A78BFA&text_color=c4b5fd" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hamza07-debug&layout=compact&theme=dark&hide_border=true&bg_color=1e1b4b&title_color=A78BFA&text_color=c4b5fd" width="30%" />
 
 <br/>
 
@@ -294,7 +293,7 @@ open_to:
 [![Email](https://img.shields.io/badge/Gmail-1e1b4b?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=2e1065)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=2e1065)](https://www.linkedin.com/in/hamza-afzaal-80400b415/)
 [![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=2e1065)](https://github.com/Hamza07-debug)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e1b4b?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=2e1065)](#)
+[![X](https://img.shields.io/badge/X-1e1b4b?style=for-the-badge&logo=x&logoColor=A78BFA&labelColor=2e1065)](https://x.com/hamzaafzaal07)
 
 <br/>
 
