@@ -24,6 +24,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/171/171294.gif" alt="lain GIF" width="300"/>
+</p>
+
 <br/>
 
 ## 🧬 About Me
