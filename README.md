@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+with+Claude%2C+MCP+%26+n8n;AI+Engineering+Intern+%7C+CS+Student;BS+Computer+Science+%40+FAST-NUCES;Open+to+internships+and+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+systems+with+Claude%2C+LangChain+%26+LangGraph;C%2B%2B+Developer+%7C+Python+Developer+%7C+AI+Engineering+Intern;BS+Computer+Science+%40+FAST-NUCES;Open+to+internships+and+collaboration)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 > A Software Engineer in progress, engineering AI systems that reason, plan, and act.
 
-I'm a Computer Science student at **FAST-NUCES (Chiniot-Faisalabad Campus)**, currently working as an **AI Engineering Intern**, where I build agentic AI workflows using **Claude API**, the **Model Context Protocol (MCP)**, and **n8n**. My work sits at the intersection of strong CS fundamentals — data structures, operating systems, database systems — and modern applied AI: LLM orchestration, retrieval-augmented generation, and multi-agent tooling.
+I'm a Computer Science student at **FAST-NUCES (Chiniot-Faisalabad Campus)**, currently working as an **AI Engineering Intern**, where I build agentic AI workflows using **LangChain**, **LangGraph**, the **Claude API**, **Model Context Protocol (MCP)**, and **n8n**. My work sits at the intersection of strong CS fundamentals — data structures, operating systems, database systems — and modern applied AI: LLM orchestration, retrieval-augmented generation, and multi-agent tooling. I work as a **C++ Developer** and **Python Developer** across my systems and AI projects respectively.
 
 I care about writing production-grade, well-documented systems rather than one-off scripts — every project I ship gets a clean architecture, a sanitized public repo, and a README that explains *why*, not just *what*.
 
@@ -71,6 +71,12 @@ I care about writing production-grade, well-documented systems rather than one-o
 **AI, Cloud & Tooling**
 
 ![Claude](https://img.shields.io/badge/Claude_API-1e1b4b?style=flat-square&logo=anthropic&logoColor=A78BFA)
+![LangChain](https://img.shields.io/badge/LangChain-1e1b4b?style=flat-square&logo=langchain&logoColor=A78BFA)
+![LangGraph](https://img.shields.io/badge/LangGraph-1e1b4b?style=flat-square&logo=langchain&logoColor=A78BFA)
+![LangSmith](https://img.shields.io/badge/LangSmith-1e1b4b?style=flat-square&logo=langchain&logoColor=A78BFA)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1b4b?style=flat-square&logo=huggingface&logoColor=A78BFA)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1e1b4b?style=flat-square&logo=databricks&logoColor=A78BFA)
+![Streamlit](https://img.shields.io/badge/Streamlit-1e1b4b?style=flat-square&logo=streamlit&logoColor=A78BFA)
 ![n8n](https://img.shields.io/badge/n8n-1e1b4b?style=flat-square&logo=n8n&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=A78BFA)
 ![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=flat-square&logo=github&logoColor=A78BFA)
@@ -85,8 +91,9 @@ I care about writing production-grade, well-documented systems rather than one-o
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Agentic AI | ⭐⭐⭐⭐ | Claude API, Agent SDK, Model Context Protocol (MCP), n8n workflow automation |
-| LLM Applications | ⭐⭐⭐⭐ | RAG pipelines, QLoRA fine-tuning fundamentals, prompt engineering, OpenAI/Gemini/Groq APIs |
+| Agentic AI | ⭐⭐⭐⭐ | Claude API, Agent SDK, LangChain, LangGraph, Model Context Protocol (MCP), n8n workflow automation |
+| LLM Applications & RAG | ⭐⭐⭐⭐ | LangChain RAG pipelines, HuggingFace embeddings, ChromaDB, Mistral AI, QLoRA fine-tuning fundamentals, prompt engineering, OpenAI/Gemini/Groq APIs |
+| LLM Observability | ⭐⭐⭐ | LangSmith tracing across RAG and multi-agent pipelines |
 | Search Algorithms | ⭐⭐⭐⭐ | BFS, DFS, UCS, A*, RBFS, Hill Climbing, Simulated Annealing, Minimax, Alpha-Beta Pruning |
 | Machine Learning | ⭐⭐⭐ | K-Means / K-Medoids Clustering, Perceptrons, ANNs, Backpropagation |
 | Logic & CSP | ⭐⭐⭐ | Propositional Logic, First-Order Logic, Constraint Satisfaction (Sudoku, N-Queens), Wumpus World |
@@ -198,10 +205,11 @@ Advanced performance metrics and predictive modeling for the FC24 professional p
 
 Building agentic AI systems and automation pipelines using modern LLM tooling.
 
-- Designed and implemented agentic workflows using **n8n**, the **Claude API**, and **MCP (Model Context Protocol)**
+- Designed and implemented agentic workflows using **LangChain**, **LangGraph**, the **Claude API**, **MCP (Model Context Protocol)**, and **n8n**
 - Integrated Claude-based agents into automation pipelines for real-world task execution
+- Used **LangSmith** for observability and tracing across RAG and multi-agent projects
 
-`Claude API` `MCP` `n8n` `Agentic AI` `Python`
+`LangChain` `LangGraph` `LangSmith` `Claude API` `MCP` `n8n` `Agentic AI` `Python` `C++`
 
 <br/>
 
@@ -215,7 +223,7 @@ Building agentic AI systems and automation pipelines using modern LLM tooling.
 |---|---|
 | 6 Featured Repositories | Spanning x86 Assembly, C++ OOP, DSA, and AI/logic-based systems |
 | 31 Repository Stars | Across 17 public repositories |
-| Cross-Domain Project Range | Low-level systems (Assembly) to applied AI (Wumpus World agent) |
+| Cross-Domain Project Range | Low-level systems (Assembly) to applied AI (LangChain/LangGraph agents, Wumpus World agent) |
 
 </div>
 
@@ -278,7 +286,7 @@ learning:
   - QLoRA fine-tuning
   - Agent SDK & advanced MCP tooling
 building:
-  - Agentic AI workflows with n8n + Claude API
+  - Agentic AI workflows with LangChain, LangGraph, Claude API & n8n
   - Portfolio-grade DSA & systems projects
 exploring:
   - Multi-agent orchestration patterns
